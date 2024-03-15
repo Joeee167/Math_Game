@@ -1,4 +1,4 @@
-# Math_Game " Test your child :-) "
+# Math_Game " Test your child's maths skills :-) "
 - A simple c++ application that creates a math quiz [ Integer operations ] and corrects the user's answers.
 
 # Features
