@@ -14,4 +14,7 @@
 - I used enums as an easier way to deal with some conditions for difficulty level and operation type info.
 - I also used rand() function for creating the questions mainly if the user needs a quiz with mixed difficulty levels or op types.
 
+# Contributions
+- Feel free to create a pull request if you want to contribute to this repo :-) .
+
   
