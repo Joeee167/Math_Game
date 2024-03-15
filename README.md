@@ -10,7 +10,7 @@
 - Asking the user if he wants to craete another quiz [ if yes reset the screen].
 
 # Description
-- This project aim was to practice using some c++ concepts and dealing with enums and rand() function
+- The project's aim was to practice using some c++ concepts and dealing with enums and rand() function
 - I used enums as an easier way to deal with some conditions for difficulty level and operation type info.
 - I also used rand() function for creating the questions mainly if the user needs a quiz with mixed difficulty levels or op types.
 
